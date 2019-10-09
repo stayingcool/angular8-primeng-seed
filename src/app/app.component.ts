@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {CardModule} from 'primeng/card';
+
 
 @Component({
   selector: 'app-root',
@@ -7,5 +7,5 @@ import {CardModule} from 'primeng/card';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'faceapp';
+  title = 'Angular PrimeNG Starter Seed Project';
 }
